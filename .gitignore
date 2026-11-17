@@ -1,0 +1,25 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Datasets & Temporary Inference Dumps
+dataset/
+dataset_v0/
+inference_output/
+inference_output_two_models/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+
+# System / OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor Settings
+.vscode/
+.idea/
